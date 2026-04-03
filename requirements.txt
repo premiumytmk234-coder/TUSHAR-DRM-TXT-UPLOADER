@@ -2,7 +2,7 @@ pyrogram==2.0.106
 tgcrypto==1.2.5
 pyromod==1.5
 
-requests==2.31.0
+requests==2.32.3
 aiohttp==3.9.5
 aiofiles==23.2.1
 pytz
@@ -29,4 +29,3 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
-
